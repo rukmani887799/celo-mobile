@@ -1,4 +1,3 @@
-[**The original tutorial can be found in the Celo documentation here**](https://docs.celo.org/v/master/developer-guide/start/hello-mobile-dapp). 
 
 # Introduction
 
